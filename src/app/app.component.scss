@@ -1,0 +1,32 @@
+.container {
+    margin-top: 10px;
+    border-radius: 15px;
+}
+.header {
+    background-color: #ff6200;
+    color: white;
+    font-family: 'Chakra Petch', sans-serif;
+    border-top-left-radius: 13px;
+    border-top-right-radius: 13px;
+}
+h3 {
+    font-family: 'Chakra Petch', sans-serif;
+}
+.contenido{
+    padding: 1em;
+}
+.titulo{
+    background-color: #c9c9c9;
+    color: #4e4e4e;
+    padding: 3px;
+    border-radius: 15px;
+}
+.valor{
+    border: 2px dotted #ff6200;
+    color: #4e4e4e;
+    border-radius: 15px;
+}
+.btn-branch{
+    color:white !important;
+    background-color: #ff6200 !important;
+}
