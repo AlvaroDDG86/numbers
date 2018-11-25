@@ -1,3 +1,43 @@
 /* You can add global styles to this file, and also import other style files */
 @import "~@ng-select/ng-select/themes/default.theme.css";
 @import url('https://fonts.googleapis.com/css?family=Chakra+Petch|Josefin+Sans');
+@import '~ngx-toastr/toastr.css';
+
+.container {
+    margin-top: 10px;
+    border-radius: 15px;
+}
+.header {
+    background-color: #ff6200;
+    color: white;
+    font-family: 'Chakra Petch', sans-serif;
+    border-top-left-radius: 13px;
+    border-top-right-radius: 13px;
+}
+.header-button {
+    background-color: #c9c9c9;
+    color: #4e4e4e !important;
+    float: right;
+    margin-bottom: 5px;
+}
+h3 {
+    font-family: 'Chakra Petch', sans-serif;
+}
+.contenido{
+    padding: 1em;
+}
+.titulo{
+    background-color: #c9c9c9;
+    color: #4e4e4e;
+    padding: 3px;
+    border-radius: 15px;
+}
+.valor{
+    border: 2px dotted #ff6200;
+    color: #4e4e4e;
+    border-radius: 15px;
+}
+.btn-branch{
+    color:white !important;
+    background-color: #ff6200 !important;
+}
